@@ -5,4 +5,4 @@ GlitchGarden game, made in Unity with C#.
 
 The game was made in Unity 2019 and C# language.
 
-![Image of GlitchGarden](https://i.ibb.co/GtxJrYf/Glitch-Garden.png)
+![Image of GlitchGarden](https://i.ibb.co/KL0G84c/Glitch-Garden.png)
