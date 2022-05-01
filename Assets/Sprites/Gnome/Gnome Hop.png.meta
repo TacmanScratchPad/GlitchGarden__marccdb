@@ -39,7 +39,7 @@ TextureImporter:
       213: -1414849632348080125
     second: Gnome Hop_11
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -59,6 +59,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -67,9 +69,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -90,9 +92,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -407,6 +413,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Gnome Hop_6: -2024161416504286770
+      Gnome Hop_0: 8532853575984537022
+      Gnome Hop_9: 471822915718253400
+      Gnome Hop_3: 2316559351308807121
+      Gnome Hop_10: -7122136188106420382
+      Gnome Hop_2: 657327705973076454
+      Gnome Hop_5: -5187855032976046438
+      Gnome Hop_11: -1414849632348080125
+      Gnome Hop_7: -7122400225289531641
+      Gnome Hop_8: 7012729498918721938
+      Gnome Hop_1: -5672886484280828777
+      Gnome Hop_4: 259241948786745635
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -51,7 +51,7 @@ TextureImporter:
       213: 4213745157763004418
     second: Lizard walk_15
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -71,6 +71,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -79,9 +81,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -102,9 +104,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -479,6 +485,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Lizard walk_11: 5932847231902338105
+      Lizard walk_4: 3896339532070250127
+      Lizard walk_7: -7647007882529193378
+      Lizard walk_3: -1139643945375253779
+      Lizard walk_13: -4031604909822072290
+      Lizard walk_5: 4936255238172581018
+      Lizard walk_2: 6847162913520075224
+      Lizard walk_12: 4764443357074690873
+      Lizard walk_15: 4213745157763004418
+      Lizard walk_1: -4819889058308062820
+      Lizard walk_6: 2390943951588671933
+      Lizard walk_0: -415346766561930917
+      Lizard walk_10: 5725681061721307823
+      Lizard walk_9: -4055403335171558508
+      Lizard walk_14: 7687722256262437089
+      Lizard walk_8: 6679634153607804198
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
